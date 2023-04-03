@@ -12,6 +12,11 @@ const styles = StyleSheet.create({
     paddingHorizontal: 28,
   },
   header: {
+    justifyContent: "center",
+    alignItem: "center",
+    textAlign: "center",
+  },
+  textHeader: {
     fontSize: 24,
     color: color.primary,
     fontWeight: "bold",
